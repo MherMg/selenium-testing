@@ -1,0 +1,3 @@
+Weight lb - does not work when we try to find with the same value(for example “from 11.50 to 11.50”).
+Shelf start - does not work when we try to find with the same value (for example “from 10.25.2016 to 10.25.2016”).
+Clicking on  “ ? ”  page goes to on the top.
